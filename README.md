@@ -10,7 +10,7 @@
 <p>Bonjour. Souhaitez-vous visiter <a href="https://openclassrooms.com" title="Vous ne le regretterez pas !" target="_blank">OpenClassrooms</a> ?</p>
 
 
-<img src="html1/téléchargement.png" alt="Logo Hopital" />
+<img src="téléchargement.png" alt="logo" />
 
 <p>... Nous sommes heureux de vous compter au sein de la communauté d'OpenClassrooms ! 😁
 
