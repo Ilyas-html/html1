@@ -1,4 +1,4 @@
-# <h1 Ma grande page</h1>
+# <h1 Ma grande page /h1>
 
 <p>
     Aller directement à la partie traitant de :<br />
