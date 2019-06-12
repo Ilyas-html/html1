@@ -9,6 +9,9 @@
 <h2 id="cuisine" title="cliquer ici pour aller directement dans la section cuisine">La cuisine</h2>
 <p>Bonjour. Souhaitez-vous visiter <a href="https://openclassrooms.com" title="Vous ne le regretterez pas !" target="_blank">OpenClassrooms</a> ?</p>
 
+
+<img src="https://fichiers.fhf.fr/annuaire/photos/structures_photo_logo_2347_2347.jpg" alt="Logo Hopital" />
+
 <p>... Nous sommes heureux de vous compter au sein de la communauté d'OpenClassrooms ! 😁
 
     Saviez-vous que vous pouvez aller encore plus loin pour développer vos compétences grâce aux projets professionnalisants des parcours OpenClassrooms ?
